@@ -1,6 +1,6 @@
 public static void manin()
 {
-int i=5
+int i=4
 int j=30
 }
-aaa
+ccc
